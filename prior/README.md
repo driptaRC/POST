@@ -1,4 +1,4 @@
 ## Train human prior
-This folder contains code to 
-1. create training data for human prior training
-2. train the human prior
+
+1. Create data for training the prior. This involves taking the poses from a real dataset and adding noise to them to create noisy poses.
+2. Train the prior.
